@@ -1,28 +1,7 @@
-19:59:18 **** Incremental Build of configuration Debug for project first ****
+Info: Nothing to build for MIDTERM_Q10
+Info: Nothing to build for MIDTERM_Q10
+20:10:54 **** Incremental Build of configuration Debug for project MIDTERM_Q10 ****
 Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
-gcc -o first.exe main.o 
-Info: Nothing to build for first
-20:19:53 **** Incremental Build of configuration Debug for project first ****
-Info: Internal Builder is used for build
-gcc -ansi -std=c89 -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
-..\main.c: In function 'main':
-..\main.c:11:1: warning: control reaches end of non-void function [-Wreturn-type]
- }
- ^
-gcc -ansi -std=c89 -o first.exe main.o 
-Info: Nothing to build for first
-20:21:10 **** Incremental Build of configuration Debug for project first ****
-Info: Internal Builder is used for build
-gcc -ansi -std=c89 -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
-..\main.c: In function 'main':
-..\main.c:11:1: warning: control reaches end of non-void function [-Wreturn-type]
- }
- ^
-gcc -ansi -std=c89 -o first.exe main.o 
-Info: Nothing to build for first
-Info: Nothing to build for first
-20:56:16 **** Incremental Build of configuration Debug for project first ****
-Info: Internal Builder is used for build
-gcc -ansi -std=c89 -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
-gcc -ansi -std=c89 -o first.exe main.o 
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\MIDTERM_Q10.o" "..\\src\\MIDTERM_Q10.c" 
+gcc -o MIDTERM_Q10.exe "src\\MIDTERM_Q10.o" 
+Info: Nothing to build for MIDTERM_Q10

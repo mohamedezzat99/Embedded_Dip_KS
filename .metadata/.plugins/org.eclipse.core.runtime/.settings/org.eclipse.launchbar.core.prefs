@@ -1,8 +1,13 @@
+LaunchTargetManager/configs/MIDTERM_Q10.exe=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/configs/MIDTERM_Q3.exe=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/configs/MIDTERM_Q5.exe=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/configs/MIDTERM_Q6.exe=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/configs/MIDTERTM_Q1.exe=org.eclipse.launchbar.core.launchTargetType.local\:Local
 LaunchTargetManager/configs/first.exe=org.eclipse.launchbar.core.launchTargetType.local\:Local
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
-configDescList=org.eclipse.launchbar.core.descriptorType.default\:first.exe
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:first.exe,org.eclipse.launchbar.core.descriptorType.default\:MIDTERTM_Q1.exe,org.eclipse.launchbar.core.descriptorType.default\:MIDTERM_Q2.exe,org.eclipse.launchbar.core.descriptorType.default\:MIDTERM_Q3.exe,org.eclipse.launchbar.core.descriptorType.default\:MIDTERM_Q4.exe,org.eclipse.launchbar.core.descriptorType.default\:MIDTERM_Q5.exe,org.eclipse.launchbar.core.descriptorType.default\:MIDTERM_Q6.exe,org.eclipse.launchbar.core.descriptorType.default\:MIDTERM_Q7.exe,org.eclipse.launchbar.core.descriptorType.default\:MIDTERM_Q8.exe,org.eclipse.launchbar.core.descriptorType.default\:MIDTERM_Q9.exe,org.eclipse.launchbar.core.descriptorType.default\:MIDTERM_Q10.exe
 eclipse.preferences.version=1
 org.eclipse.launchbar.core.descriptorType.default\:first.exe/activeLaunchMode=run
 org.eclipse.launchbar.core.descriptorType.default\:first.exe/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
